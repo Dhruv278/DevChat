@@ -7,4 +7,4 @@ This is DevChat website . Some functionalities of this website are :
 5.You can create your own profile with nice image
 
 Technology used in website :- React js , firebase as database and for hosting
-link of website :- https://lnkd.in/eHy7fBG
+link of website :- https://react-slack-clone-43572.web.app/
